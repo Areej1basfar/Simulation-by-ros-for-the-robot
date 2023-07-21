@@ -10,3 +10,8 @@ If you want to install ubuntu on your computer as a secondary system, you can us
 You can find install ROS Noetic commands here <br>
 https://wiki.ros.org/noetic/Installation/Ubuntu<br>
 -----------------------------------------------------------------------------------------------------------------------------<br><br>
+After you install Ros on your ubuntu, you can use this instrections on your window to opean ros and view the robot arm.<br><br>
+source ~/.bashrc<br>
+roslaunch robot_arm_pkg check_motors.launch<br><br>
+![ROS-Moving The Arm](https://github.com/Areej1basfar/Simulation-by-ros-for-the-robot/assets/121516453/04237237-5a1c-4c81-8802-34cae5f5c22e)
+
