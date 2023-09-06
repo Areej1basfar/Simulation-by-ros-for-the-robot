@@ -1,4 +1,4 @@
-# Simulation-by-ros-for-the-robot
+# Simulation by ros for the robot
 #### Use the ROS system to simulate the robot and move its arm
 To download Ros you need to install ubuntu first, make sure that your ubuntu version dovetail with ROS version. <br>
 If you want to install ubuntu on your computer as a secondary system, you can use VirtualBox to create a Virtual Machine.<br>
